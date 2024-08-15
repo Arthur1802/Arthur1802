@@ -1,6 +1,7 @@
 ### Hello there! 👋🏻
-I'm Arthur from Brazil and I am an information systems student at Unilasalle RJ. I enjoy programming in both back and front ends... reason being I find it satisfying to see something I made working as a whole. I also enjoy learning new languages and new technologies. I'm always thinking of different things I can make using I what I have and know. You can check some of my projects bellow.
+---
 
+I'm Arthur from Brazil, currently studying Information Systems at Unilasalle RJ. I have a strong passion for both back-end and front-end development because I love seeing my ideas come to life as a complete, functional project. I’m always eager to learn new languages and technologies, constantly thinking of creative ways to build and improve on what I know. Feel free to explore some of my projects below!
 Skills: Python / C / Java/ SQLite / JS / HTML / CSS
 
 - 🔭 I’m currently working on a library system https://github.com/Arthur1802/BIBLIOTECA 
