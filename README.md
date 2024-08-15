@@ -13,8 +13,8 @@ I'm **Arthur** from Brazil, currently pursuing a degree in **Information Systems
 ---
 
 **🚀 Current Projects:**
-- 🔭 Working on a [Library System](https://github.com/Arthur1802/BIBLIOTECA) 
-- 🌱 Actively learning **Python**
+- 🔭 Working on a [Banking System](https://github.com/Arthur1802/BANKING) 
+- 🌱 Actively learning **React Native, Typescript and Tailwind**
 
 ---
 
