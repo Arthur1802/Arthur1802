@@ -24,6 +24,7 @@ I'm **Arthur** from Brazil, currently pursuing a degree in **Information Systems
 ---
 
 **📊 GitHub Stats:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1802&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur1802&show_icons=true&theme=radical)
 
@@ -31,16 +32,12 @@ I'm **Arthur** from Brazil, currently pursuing a degree in **Information Systems
 
 **🌐 Connect with Me:**
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/Arthur1802) 
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/arthur_qob/) 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 ---
 
 Feel free to explore my projects and reach out if you’d like to collaborate or chat about tech!
-
----
-
-This version is more organized, visually appealing, and informative, helping to make a strong impression on anyone visiting your GitHub profile.
