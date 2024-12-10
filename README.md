@@ -5,16 +5,16 @@ I'm **Arthur** from Brazil, currently pursuing a degree in **Information Systems
 ---
 
 **🔧 Skills:**
-- **Languages:** Python, C, Java
-- **Web Development:** HTML, CSS, JavaScript
-- **Mobile development:** React Native, Javascript
-- **Databases:** SQLite, MySQL
+- **Languages:** Python, JavaScript, C, Java
+- **Web Development:** HTML, CSS, JavaScript, Flask, React JS
+- **Mobile development:** React Native, React JS, JavaScript
+- **Databases:** SQLite, MySQL, Realtime Database (Firebase)
 
 ---
 
 **🚀 Current Projects:**
-- 🔭 Working on a [Banking System](https://github.com/Arthur1802/GROCERY-LIST) 
-- 🌱 Actively learning **React Native, Typescript and Tailwind**
+- 🔭 Working on a [Grocery List App](https://github.com/Arthur1802/GROCERY-LIST-APP) 
+- 🌱 Actively learning **React Native**
 
 ---
 
