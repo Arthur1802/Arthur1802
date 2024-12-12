@@ -13,7 +13,7 @@ I'm **Arthur** from Brazil, currently pursuing a degree in **Information Systems
 ---
 
 **🚀 Current Projects:**
-- 🔭 Working on a [Grocery List App](https://github.com/Arthur1802/GROCERY-LIST-APP) 
+- 🔭 Working on a [Task Tracker App](https://github.com/Arthur1802/TASK-TRACKER-APP) 
 - 🌱 Actively learning **React Native**
 
 ---
